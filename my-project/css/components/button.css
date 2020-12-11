@@ -1,0 +1,7 @@
+.btn-blue {
+	background-color:rgb(225, 201, 157);
+	color: rgb(240, 240, 240 ); 
+	padding: 10px 15px;
+	border-radius: 5px;
+	text-decoration: none;
+}
